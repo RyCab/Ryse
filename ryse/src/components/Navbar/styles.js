@@ -19,7 +19,7 @@ export default makeStyles((theme) => ({
     alignItems: 'center',
     display: 'flex',
     textDecoration: 'none',
-    border: '2px solid red',
+    // border: '2px solid red',
   },
   image: {
     marginRight: '10px',
